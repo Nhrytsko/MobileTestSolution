@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTests", "MobileTestSolution\MobileTests.csproj", "{2C5446C3-8668-4A50-8844-421E5CF230DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{3AB95B7B-EF2C-4039-BEE5-E979149628A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinWrapper", "XamarinWrapper\XamarinWrapper.csproj", "{60442B86-A40D-4A96-B449-E520059B8AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5446C3-8668-4A50-8844-421E5CF230DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5446C3-8668-4A50-8844-421E5CF230DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5446C3-8668-4A50-8844-421E5CF230DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5446C3-8668-4A50-8844-421E5CF230DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB95B7B-EF2C-4039-BEE5-E979149628A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB95B7B-EF2C-4039-BEE5-E979149628A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB95B7B-EF2C-4039-BEE5-E979149628A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB95B7B-EF2C-4039-BEE5-E979149628A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60442B86-A40D-4A96-B449-E520059B8AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60442B86-A40D-4A96-B449-E520059B8AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60442B86-A40D-4A96-B449-E520059B8AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60442B86-A40D-4A96-B449-E520059B8AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
